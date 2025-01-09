@@ -84,7 +84,7 @@ const GridContainer = styled.div`
   }
   h2 {
     @media (max-width: 768px) {
-      font-size: 22px;
+      font-size: 32px;
       line-height: 28px;
       font-weight: 500;
     }
