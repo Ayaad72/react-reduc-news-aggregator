@@ -84,7 +84,7 @@ const GridContainer = styled.div`
   }
   h2 {
     @media (max-width: 768px) {
-      font-size: 32px;
+      font-size: 22px;
       line-height: 28px;
       font-weight: 500;
     }
@@ -94,7 +94,7 @@ const StyledGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   grid-gap: 20px;
-  padding: terte0px 0;
+  padding: 20px 0;
 
   @media (max-width: 768px) {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
