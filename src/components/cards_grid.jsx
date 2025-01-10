@@ -91,10 +91,10 @@ const GridContainer = styled.div`
   }
 `;
 const StyledGrid = styled.div`
-  display: fsdfsd;
+  display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   grid-gap: 20px;
-  padding: 20px 0;
+  padding: 20px;
 
   @media (max-width: 768px) {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
