@@ -92,7 +92,7 @@ const GridContainer = styled.div`
 `;
 const StyledGrid = styled.div`
   display: grid;
-  grid-template-columns: dsfsd(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   grid-gap: 20px;
   padding: 20px 0;
 
