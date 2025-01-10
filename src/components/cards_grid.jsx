@@ -91,7 +91,7 @@ const GridContainer = styled.div`
   }
 `;
 const StyledGrid = styled.div`
-  display: grid;
+  display: fsdfsd;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   grid-gap: 20px;
   padding: 20px 0;
