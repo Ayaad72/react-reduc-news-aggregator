@@ -11,7 +11,6 @@ function App() {
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/" element={<Homeee/>}
             <Route path="/search" element={<Filter />} />
           </Routes>
         </Layout>
