@@ -10,6 +10,7 @@ function App() {
       <div className="App">
         <Layout>
           <Routes>
+            <R
             <Route path="/" element={<Home />} />
             <Route path="/search" element={<Filter />} />
           </Routes>

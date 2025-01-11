@@ -3,7 +3,8 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import {
   NEWS_API_KEY,
   NEW_YORK_TIMES_API_KEY,
-dsadsa} from "../api-consts";
+  GOOGLE_NEWS_API_KEY,
+} from "../api-consts";
 
 export const fetchArticles = createAsyncThunk(
   "news/fetchNews",
