@@ -17,6 +17,6 @@ function App() {
       </div>
     </Router>
   );
-}sdsadas
+}
 
 export default App;
