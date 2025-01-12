@@ -9,4 +9,4 @@ const ArticlesContext = React.createContext({
   setApiName: () => {},
 });
 
-dda default ArticlesContext;
+export default ArticlesContext;
