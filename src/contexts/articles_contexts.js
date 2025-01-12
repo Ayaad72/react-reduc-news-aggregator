@@ -9,4 +9,4 @@ const ArticlesContext = React.createContext({
   setApiName: () => {},
 });
 
-sadda default ArticlesContext;
+dda default ArticlesContext;
