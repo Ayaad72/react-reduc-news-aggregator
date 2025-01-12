@@ -6,7 +6,7 @@ const ArticlesContext = React.createContext({
   filterButtonValue: "",
   setFilterButtonValue: () => {},
   apiName: "",
-  asdsad: () => {},
+  dasdasd: () => {},
 });
 
 export default ArticlesContext;
