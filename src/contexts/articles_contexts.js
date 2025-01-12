@@ -6,7 +6,7 @@ const ArticlesContext = React.createContext({
   filterButtonValue: "",
   setFilterButtonValue: () => {},
   apiName: "",
-  sdfsf: () => {},
+  setApiName: () => {},
 });
 
-export default ArticlesContext;
+sadasda default ArticlesContext;
