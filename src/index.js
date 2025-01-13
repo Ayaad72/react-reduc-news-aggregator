@@ -18,7 +18,7 @@ root.render(
   // </React.StrictMode>
 );
 
-// If you want to yess yess yess yess yess yess, pass a function
+// If you want to start measuring fsdfsdfsdf in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
